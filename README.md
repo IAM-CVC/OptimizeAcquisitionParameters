@@ -10,7 +10,7 @@ The code is generic, dimension-agnostic, and applicable to a wide range of acqui
   Implementation of the multi-objective Pareto methodology.
 
 - `HQ_ParetoCubes.html and HQ_ParetoCubesV2.html`  
-  Interactive visualization tool for exploring Pareto layers and admissible regions. Download and execute it into a navigator.
+  Interactive visualization tool for exploring Pareto layers and admissible regions for the Lung Cancer use case applied to Radiolung dataset. Download and execute it into a navigator.
 
 - `Radiolung3Param.csv`
   Example .csv with p-values for the different parameter combinations.
