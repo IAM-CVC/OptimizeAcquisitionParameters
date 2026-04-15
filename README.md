@@ -1,16 +1,3 @@
-# Optimize Acquisition Parameters
-
-Code with the implementation of the acquisition parameter space optimization using hierarchically multi-objective pareto optimization to get different high quality (HQ) levels.
-
-## Files:
-
-* ExplainHQ.py
-* ExplainHQV2.py
-* HQ_ParetoCubes.html: Interactive visualization of HQ levels. You can put the mouse 
-* HQ_ParetoCubesV2.html : Interactive visualisation incorporating all pareto solutions. Download and execute in a navigator.
-* Radiolung3Param.csv : example .csv with p-values for the different parameter combinations.
-
-
 # Multi-objective Pareto Analysis for Optimization of Acquisition Parameters and Interactive Visualization
 
 This repository provides an implementation of a **multi-objective Pareto-based framework** for the analysis of acquisition parameter configurations, together with an **interactive visualization tool** for exploring the resulting solution spaces.
