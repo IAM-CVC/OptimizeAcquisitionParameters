@@ -3,7 +3,6 @@
 This repository provides an implementation of a **multi-objective Pareto-based framework** for the analysis of acquisition parameter configurations, together with an **interactive visualization tool** for exploring the resulting solution spaces.
 The code is generic, dimension-agnostic, and applicable to a wide range of acquisition or system optimization problems.
 
----
 
 ## Contents
 
@@ -16,7 +15,6 @@ The code is generic, dimension-agnostic, and applicable to a wide range of acqui
 - `Radiolung3Param.csv`
   Example .csv with p-values for the different parameter combinations.
   
----
 
 ## Multi-objective Pareto Analysis
 
@@ -29,7 +27,6 @@ Given a set of configurations and their associated p-val, the method:
 
 The implementation supports an arbitrary number of parameters and does not rely on geometric assumptions such as convexity.
 
----
 
 ## Interactive Visualization Tool
 
@@ -44,14 +41,12 @@ Users can toggle admissible regions by HQ level and inspect overlaps between reg
 
 The visualization is intended as an exploratory aid and is not a required component of the methodology.
 
----
 
 ## Notes
 
 - The methodology is applicable to higher-dimensional parameter spaces, where analysis relies on quantitative summaries rather than direct visualization.
 - The visualization component is provided for interpretability and illustrative purposes.
 
----
 
 ## License
 
