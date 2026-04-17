@@ -25,7 +25,7 @@ Given a set of configurations and their associated p-val, the method:
 - defines inequality-based admissible regions associated with each Pareto-optimal configuration,
 - aggregates these regions by quality level to characterize flexible, quality-preserving parameter subspaces.
 
-The implementation supports an arbitrary number of parameters and does not rely on geometric assumptions such as convexity.
+The implementation supports an arbitrary number of parameters.
 
 
 ## Interactive Visualization Tool
